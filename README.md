@@ -1,4 +1,5 @@
 #greeklish 
+[![Build Status](https://travis-ci.com/papasavvas/greeklish.svg?token=qQ3QrbzokVkMmixS8E1M&branch=master)](https://travis-ci.com/papasavvas/greeklish)
 
 A tool to convert [Greeklish](https://en.wikipedia.org/wiki/Greeklish) to Greek and vice versa with small size and zero dependencies.
 
