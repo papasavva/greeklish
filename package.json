@@ -5,7 +5,8 @@
   "main": "index.js",
   "directories": {},
   "scripts": {
-    "test": "nyc --reporter=html --reporter=lcov ./node_modules/.bin/mocha --recursive ./test/*.js --exit --color",
+    "test": "./node_modules/.bin/mocha --recursive ./test/*.js",
+    "report": "nyc --reporter=html --reporter=lcov ./node_modules/.bin/mocha --recursive ./test/*.js --exit --color",
     "lint": "eslint ."
   },
   "repository": {
