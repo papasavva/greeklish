@@ -7,7 +7,7 @@ A tool to convert [Greeklish](https://en.wikipedia.org/wiki/Greeklish) to Greek 
 
 Greeklish, a combination of the words Greek and English is the Greek language written using the Latin alphabet.
 
-It is commonly use in texting to write faster and write grammar errors among Greeks.
+It is commonly use in texting to write faster and hide grammar mistakes among Greeks.
 ##Usage:
 ```js
 const gl = require('greeklish')
@@ -21,7 +21,7 @@ const gl = require('greeklish')
 ```js
 const gl = require('greeklish')
 
-const greekText = gl.toGreeklish('Βελτιωμένος σήμερα ο καιρός.')
+const greeklishText = gl.toGreeklish('Βελτιωμένος σήμερα ο καιρός.')
 // Beltiwmenos shmera o kairos.
 
 const greekText = gl.toGreek('Βeltiwmenos shmera o kairos.')
@@ -33,7 +33,7 @@ Both functions expect a string with atleast length of 1. Make sure you pass a va
 ```js
 const gl = require('greeklish')
 
-const greekText = gl.toGreeklish(1)
+const greeklishText = gl.toGreeklish(1)
 // Error: Value must be a string with at least one character.
 
 const greekText = gl.toGreek('')
