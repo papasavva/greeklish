@@ -1,7 +1,7 @@
 #greeklish 
 
 [![Build Status](https://travis-ci.com/papasavvas/greeklish.svg?token=qQ3QrbzokVkMmixS8E1M&branch=master)](https://travis-ci.com/papasavvas/greeklish)
-[![Coverage Status](https://coveralls.io/repos/github/papasavvas/Greeklish2Greek/badge.svg?branch=master)](https://coveralls.io/github/papasavvas/Greeklish2Greek?branch=master)
+[![codecov](https://codecov.io/gh/papasavvas/greeklish/branch/master/graph/badge.svg?token=DBMTWS3V79)](undefined)
 
 A tool to convert [Greeklish](https://en.wikipedia.org/wiki/Greeklish) to Greek and vice versa with small size and zero dependencies.
 
