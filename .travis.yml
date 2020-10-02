@@ -3,6 +3,8 @@ language: node_js
 node_js:
   - node
   - 'lts/*'
+install:
+  - npm install -g codecov
 script:
   - npm run coverage
 notifications:

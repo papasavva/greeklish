@@ -7,3 +7,4 @@ package-lock.json
 # Coverage
 coverage
 .nyc_output
+coverage.lcov
