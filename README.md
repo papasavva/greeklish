@@ -1,6 +1,8 @@
 #greeklish 
+
 [![Build Status](https://travis-ci.com/papasavvas/greeklish.svg?token=qQ3QrbzokVkMmixS8E1M&branch=master)](https://travis-ci.com/papasavvas/greeklish)
 [![Coverage Status](https://coveralls.io/repos/github/papasavvas/Greeklish2Greek/badge.svg?branch=master)](https://coveralls.io/github/papasavvas/Greeklish2Greek?branch=master)
+
 A tool to convert [Greeklish](https://en.wikipedia.org/wiki/Greeklish) to Greek and vice versa with small size and zero dependencies.
 
 Greeklish, a combination of the words Greek and English is the Greek language written using the Latin alphabet.
