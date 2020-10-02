@@ -6,7 +6,7 @@
   "directories": {},
   "scripts": {
     "test": "./node_modules/.bin/mocha --recursive ./test/*.js",
-    "report": "nyc --reporter=html --reporter=lcov ./node_modules/.bin/mocha --recursive ./test/*.js --exit --color",
+    "coverage": "nyc npm test && nyc report --reporter=text-lcov | coveralls",
     "lint": "eslint ."
   },
   "repository": {
