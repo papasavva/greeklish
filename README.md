@@ -1,7 +1,11 @@
 #greeklish 
 
 [![Build Status](https://travis-ci.com/papasavvas/greeklish.svg?token=qQ3QrbzokVkMmixS8E1M&branch=master)](https://travis-ci.com/papasavvas/greeklish)
-[![codecov](https://codecov.io/gh/papasavvas/greeklish/branch/master/graph/badge.svg?token=DBMTWS3V79)](undefined)
+[![codecov](https://codecov.io/gh/papasavvas/greeklish/branch/master/graph/badge.svg)](https://codecov.io/gh/papasavvas/greeklish)
+![npm](https://img.shields.io/npm/dm/greeklish)
+![npm](https://img.shields.io/npm/v/greeklish)
+![NPM](https://img.shields.io/npm/l/greeklish?color=blue)
+
 
 A tool to convert [Greeklish](https://en.wikipedia.org/wiki/Greeklish) to Greek and vice versa with small size and zero dependencies.
 
