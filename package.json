@@ -5,8 +5,8 @@
   "main": "index.js",
   "directories": {},
   "scripts": {
-    "test": "./node_modules/.bin/mocha --recursive ./test/*.js",
-    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov -t $CODECOV_TOKEN",
+    "test": "nyc --reporter=lcov --reporter=text ./node_modules/.bin/mocha --recursive ./test/*.js",
+    "coverage": "codecov -t $CODECOV_TOKEN",
     "lint": "eslint ."
   },
   "repository": {
