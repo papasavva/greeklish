@@ -1,6 +1,6 @@
 {
   "name": "greeklish",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tool to convert greeklish to Greek and vice versa.",
   "main": "index.js",
   "directories": {},
